@@ -3,7 +3,7 @@
                	<modelVersion>4.0.0</modelVersion>
                	<groupId>oschina</groupId>
                	<artifactId>oschina.simple</artifactId>
-               	<packaging>war</packaging>
+               	<packaging>pom</packaging>
                	<version>1.0</version>
                	<name>oschina.simple Maven Webapp</name>
                	<url>http://maven.apache.org</url>
